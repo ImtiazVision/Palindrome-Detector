@@ -15,3 +15,7 @@ body {
   min-height: 100vh;
   background: rgb(102, 115, 206);
 }
+
+.wrapper { 
+  background: #fff;
+}
